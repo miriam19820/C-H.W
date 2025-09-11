@@ -1,0 +1,14 @@
+C:\Users\This User\source\repos\L1 NEW\cardrs\cardrs\bin\Debug\cardrs.exe.config
+C:\Users\This User\source\repos\L1 NEW\cardrs\cardrs\bin\Debug\cardrs.exe
+C:\Users\This User\source\repos\L1 NEW\cardrs\cardrs\bin\Debug\cardrs.pdb
+C:\Users\This User\source\repos\L1 NEW\cardrs\cardrs\obj\Debug\cardrs.csproj.AssemblyReference.cache
+C:\Users\This User\source\repos\L1 NEW\cardrs\cardrs\obj\Debug\cardrs.csproj.CoreCompileInputs.cache
+C:\Users\This User\source\repos\L1 NEW\cardrs\cardrs\obj\Debug\cardrs.exe
+C:\Users\This User\source\repos\L1 NEW\cardrs\cardrs\obj\Debug\cardrs.pdb
+C:\Users\This User\Desktop\L1 NEW\cardrs\cardrs\obj\Debug\cardrs.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\L1 NEW\cardrs\cardrs\obj\Debug\cardrs.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\L1 NEW\cardrs\cardrs\obj\Debug\cardrs.exe
+C:\Users\This User\Desktop\L1 NEW\cardrs\cardrs\obj\Debug\cardrs.pdb
+C:\Users\This User\Desktop\L1 NEW\cardrs\cardrs\bin\Debug\cardrs.exe.config
+C:\Users\This User\Desktop\L1 NEW\cardrs\cardrs\bin\Debug\cardrs.exe
+C:\Users\This User\Desktop\L1 NEW\cardrs\cardrs\bin\Debug\cardrs.pdb
