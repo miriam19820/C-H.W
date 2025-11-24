@@ -1,0 +1,42 @@
+W:\HandesaimV\Public\חומר מהמורה\‏‏Group2\נושאים בC#\Lesson7\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.exe
+W:\HandesaimV\Public\חומר מהמורה\‏‏Group2\נושאים בC#\Lesson7\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.deps.json
+W:\HandesaimV\Public\חומר מהמורה\‏‏Group2\נושאים בC#\Lesson7\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.runtimeconfig.json
+W:\HandesaimV\Public\חומר מהמורה\‏‏Group2\נושאים בC#\Lesson7\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.dll
+W:\HandesaimV\Public\חומר מהמורה\‏‏Group2\נושאים בC#\Lesson7\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.pdb
+W:\HandesaimV\Public\חומר מהמורה\‏‏Group2\נושאים בC#\Lesson7\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+W:\HandesaimV\Public\חומר מהמורה\‏‏Group2\נושאים בC#\Lesson7\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.AssemblyInfoInputs.cache
+W:\HandesaimV\Public\חומר מהמורה\‏‏Group2\נושאים בC#\Lesson7\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.AssemblyInfo.cs
+W:\HandesaimV\Public\חומר מהמורה\‏‏Group2\נושאים בC#\Lesson7\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.csproj.CoreCompileInputs.cache
+W:\HandesaimV\Public\חומר מהמורה\‏‏Group2\נושאים בC#\Lesson7\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.dll
+W:\HandesaimV\Public\חומר מהמורה\‏‏Group2\נושאים בC#\Lesson7\Lesson7\Lesson7\obj\Debug\net8.0\refint\Lesson7.dll
+W:\HandesaimV\Public\חומר מהמורה\‏‏Group2\נושאים בC#\Lesson7\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.pdb
+W:\HandesaimV\Public\חומר מהמורה\‏‏Group2\נושאים בC#\Lesson7\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.genruntimeconfig.cache
+W:\HandesaimV\Public\חומר מהמורה\‏‏Group2\נושאים בC#\Lesson7\Lesson7\Lesson7\obj\Debug\net8.0\ref\Lesson7.dll
+D:\Lesson7\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.exe
+D:\Lesson7\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.deps.json
+D:\Lesson7\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.runtimeconfig.json
+D:\Lesson7\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.dll
+D:\Lesson7\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.pdb
+D:\Lesson7\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lesson7\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.AssemblyInfoInputs.cache
+D:\Lesson7\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.AssemblyInfo.cs
+D:\Lesson7\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.csproj.CoreCompileInputs.cache
+D:\Lesson7\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.dll
+D:\Lesson7\Lesson7\Lesson7\obj\Debug\net8.0\refint\Lesson7.dll
+D:\Lesson7\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.pdb
+D:\Lesson7\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.genruntimeconfig.cache
+D:\Lesson7\Lesson7\Lesson7\obj\Debug\net8.0\ref\Lesson7.dll
+C:\Users\This User\Desktop\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.exe
+C:\Users\This User\Desktop\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.deps.json
+C:\Users\This User\Desktop\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.runtimeconfig.json
+C:\Users\This User\Desktop\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.dll
+C:\Users\This User\Desktop\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.pdb
+C:\Users\This User\Desktop\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.AssemblyInfo.cs
+C:\Users\This User\Desktop\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.dll
+C:\Users\This User\Desktop\Lesson7\Lesson7\obj\Debug\net8.0\refint\Lesson7.dll
+C:\Users\This User\Desktop\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.pdb
+C:\Users\This User\Desktop\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.genruntimeconfig.cache
+C:\Users\This User\Desktop\Lesson7\Lesson7\obj\Debug\net8.0\ref\Lesson7.dll
